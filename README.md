@@ -339,6 +339,9 @@ This material is provided for educational purposes. Please cite appropriately if
 
 For questions about the course materials or technical issues, please contact the course instructors.
 
+Samuele Cancellieri
+samuele.cancellieri@ncmbm.uio.no
+
 ---
 
 **Last Updated**: November 2025
